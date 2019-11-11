@@ -3,7 +3,7 @@ Videos of autonomous from the Lancaster 2019 Scrimmage.
 
 Match details can be found here: http://www.ftcpenn.org/ftc-events/2019-2020-season/lancaster-scrimmage/match-results-details
 
-We participated in: Q3, Q6, Q9, Q13, and Q19. There was a problem with the video of Q19, so it is not on this page. I must have hit "slow motion" at some point. It was humorous, but the file size was to large to put the file in the repo.
+We participated in: Q3, Q6, Q9, Q13, and Q19. There was a problem with the video of Q19, so it is not on this page. I must have hit "slow motion" at some point. It was humorous, but the file size was too large to put the file in the repo.
 
 We haven't spent much time logging, so there are no logs for the scrimmage.
 
